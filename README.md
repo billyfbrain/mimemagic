@@ -1,6 +1,7 @@
 # Mimemagic - Detect mime-types in Go
+forked from bitbucket.org/taruti/mimemagic
 
-    import "bitbucket.org/taruti/mimemagic"
+    import "github.com/billyfbrain/mimemagic"
 
 Import the library
 
